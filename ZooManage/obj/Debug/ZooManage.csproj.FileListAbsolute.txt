@@ -1,0 +1,15 @@
+C:\Users\CRS\source\repos\ZooManage\ZooManage\bin\Debug\ZooManage.exe.config
+C:\Users\CRS\source\repos\ZooManage\ZooManage\bin\Debug\ZooManage.exe
+C:\Users\CRS\source\repos\ZooManage\ZooManage\bin\Debug\ZooManage.pdb
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage.csprojAssemblyReference.cache
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\MainWindow.g.cs
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\App.g.cs
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage_MarkupCompile.cache
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage_MarkupCompile.lref
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\MainWindow.baml
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage.g.resources
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage.Properties.Resources.resources
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage.csproj.GenerateResource.cache
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage.exe
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\ZooManage.pdb
+C:\Users\CRS\source\repos\ZooManage\ZooManage\obj\Debug\App.baml
